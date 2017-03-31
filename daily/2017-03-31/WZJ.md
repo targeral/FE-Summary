@@ -1,1 +1,2 @@
+# padding实现div背景自适应
 可以用padding实现div背景图自适应
