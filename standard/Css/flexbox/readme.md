@@ -198,3 +198,7 @@
 
 ![exmaple](./img/WX20170421-155544.png)
 ![example](./img/WX20170421-160847.png)
+
+## 注意事项
+
+注意，设为Flex布局以后，子元素的`float`、`clear`和`vertical-align`属性将失效。
