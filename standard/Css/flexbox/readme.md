@@ -16,7 +16,7 @@
 
 容器指的是父元素，项目指的是子元素。
 
-![example](,/img/example1.png)
+![example](./img/example1.png)
 
 #### 主轴与次轴
 
